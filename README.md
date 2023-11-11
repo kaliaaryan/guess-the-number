@@ -1,4 +1,4 @@
-# guess-the-number : https://kaliaaryan.github.io/guess-the-number/
+# guess-the-number 
 This is a simple game where we guess the number between 1 and 20 in a certain number of tries with a certain score.
 <br>
 The front end was made using HTML and CSS.
